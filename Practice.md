@@ -1,3 +1,3 @@
 #PRACTICE 
 
-do it your own
+Do it your own.
